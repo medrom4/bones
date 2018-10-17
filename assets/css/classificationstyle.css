@@ -73,15 +73,18 @@ body {
 	line-height: 1;
 }
 
+
 ol,
 ul {
 	list-style: none;
 }
 
+
 blockquote,
 q {
 	quotes: none;
 }
+
 
 blockquote:before,
 blockquote:after,
@@ -236,6 +239,8 @@ p.fig {
 	text-indent: 0em;
 }
 
+
+
 @media (max-width: 600px) {
 	ul.navb {
 		display: none;
@@ -300,6 +305,8 @@ p.fig {
 		display: none;
 	}
 }
+
+
 
 @media (min-width: 1300px) {
 	h2,
